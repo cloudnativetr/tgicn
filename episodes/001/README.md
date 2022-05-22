@@ -1,6 +1,6 @@
 # Episode 001: Protecting Software Supply Chains with the latest Kyverno features
 
-- Hosted by [@developerguyba](github.com/developer-guy)
+- Hosted by [@developerguyba](https://github.com/developer-guy)
 - 22/05/2022
 
 <!--- Thumbnailed embed of the video, n8Xo_ghCIOSY is the video id from the youtube url --->
