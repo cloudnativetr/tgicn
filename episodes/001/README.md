@@ -36,4 +36,7 @@
   - SLSA, in-toto Attestations, Container Image & Artifact Signing
 - Container Image Builds Reproducibility
   - Build information
+    - [Capturing build information with BuildKit](https://www.docker.com/blog/capturing-build-information-buildkit/) 
   - Base images
+    - [Base image hakkında tweet](https://twitter.com/developerguyba/status/1525039658895286272)
+    - [All about that Base Image](https://blog.chainguard.dev/zero-security-debt-for-container-images-is-possible/)
