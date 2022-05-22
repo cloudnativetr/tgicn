@@ -20,6 +20,8 @@
 - [Emre Savcı'dan JR Yazılımcı Eğitim Kampı](https://twitter.com/mstrYoda_/status/1524777488714457089?s=20&t=4eaB5W9QkTlbxDCUveCYNw)
 - [Docker Extension'lar duyurusu](https://twitter.com/Docker/status/1524045306215641093?s=20&t=acynPQ36pEiBDWlt0pWcIQ)
   - [Build Your First Docker Extension](https://www.docker.com/blog/build-your-first-docker-extension/)
+  - [Docker extensionları imzalayalım](https://twitter.com/developerguyba/status/1526905271536304128?s=20&t=9YnZleiS7BeuPhFrTTJ0Ig)
+    - [docker/extensions-sdk#168](https://github.com/docker/extensions-sdk/issues/168) 
 - [buildg: Interactive debugger for Dockerfile](https://github.com/ktock/buildg)
   - [Blog post](https://medium.com/nttlabs/buildg-a48bc851c1bb)
   - [docker/buildx#104](https://github.com/docker/buildx/issues/1104)
