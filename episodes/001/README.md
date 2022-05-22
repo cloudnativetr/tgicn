@@ -28,6 +28,8 @@
   - [nerdctl v0.20 provides `nerdctl builder debug` for interactive debugging of Dockerfiles.](https://twitter.com/_AkihiroSuda_/status/1527208720962187264?s=20&t=73gYchM3Yg2sOoJyNs5ATg)
 - [Tetragon: eBPF-based Security Observability & Runtime Enforcement](https://twitter.com/tgraf__/status/1526216104477175810?s=20&t=acynPQ36pEiBDWlt0pWcIQ)
 - [Prometheus Certified Associate (PCA) Exam Linux Foundation](https://training.linuxfoundation.org/certification/prometheus-certified-associate/)
+- [HackTrick Conf](https://hacktrickconf.com)
+  - [Creating a Secure Software Supply Chain for Containers – Batuhan Apaydın / Furkan Turkal / Kürşat Oğuzhan Akıncı](https://hacktrickconf.com/session/sunum-6/)
 
 ## Show Notes
 
