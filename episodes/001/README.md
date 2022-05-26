@@ -11,8 +11,6 @@
 
 ## Week in Review
 
-### KubeCon + CloudNativeCon Europe 2022
-
 - [Trendyol'dan Furkan Türkal ve Emin Aktaş KubeCon Europe 2022'deki sunumları](https://twitter.com/furkanturkaI/status/1527578673897000961)
   - [Threat Hunting at Scale: Auditing Thousands of Clusters With Falco + Fluent - Furkan Türkal & Emin Aktaş, Trendyol](https://kccnceu2022.sched.com/event/ytrP/threat-hunting-at-scale-auditing-thousands-of-clusters-with-falco-fluent-furkan-turkal-emin-aktas-trendyol)
 - [Batuhan Apaydın (@developerguyba)'dan yeni yazı: "Getting started with ko: A fast container image builder for your Go applications"](https://kubesimplify.com/getting-started-with-ko-a-fast-container-image-builder-for-your-go-applications)
