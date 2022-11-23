@@ -1,3 +1,5 @@
+![cks](cks.png)
+
 # Certified Kubernetes Security Specialist Hakkında Bilmeniz Gerekenler
 
 ## Description
@@ -25,6 +27,8 @@ Bu etkinliğimizde yakın zamanda CKS sınavına giren Batuhan Apaydın, Certifi
 - [CNCF Community Group](https://community.cncf.io/istanbul/)
 
 ### Show Notes
+
+![cks](cks.jpeg)
 
 - [Kubernetes RBAC](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 
